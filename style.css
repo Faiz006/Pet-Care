@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav div a span{
+    color: #ed6436;
+}
+.navbar-brand{
+    font-family: 'Nunito', sans-serif;
+    font-size: 2.5rem !important;
+    font-weight: 700;
+}
+.navbar-nav{
+    padding-left: .8rem !important;
+    font-size: 1.5rem;
+    margin-top: .7rem;
+    font-family: 'Nunito', sans-serif;
+}
+a:hover{
+    color: #ed6436 !important;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Nunito', sans-serif;
+}
+.carousel-caption{
+    bottom: 22.25rem !important;
+}
+.carousel-h1{
+    font-size: 4.5rem;
+    font-weight: 900;
+}
+.form-about{
+    padding: 0 6% !important;
+    background-color: #F2F2F4 !important;
+}
+.form-margin{
+    margin: 10% 0 10% 10%;
+    width: 80% !important;
+}
+.col-sm-4{
+    background-color: #ed6436;
+}
+.spannn, .boarding, .premium, .orangee{
+    color: #ed6436 !important;
+}
+.greenn{
+    color: #65c178 !important;;
+}
+.col-right{
+    font-size: 3.5rem;
+    font-weight: 800 !important;
+}
+.font-green, .about-us, .daycare, .our-services, .feature{
+    color: #65c178 !important;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+}
+.iconns{
+    color: #65C178 ;
+    font-weight: 500;
+    font-size: 40px;
+    margin: 0.5rem;
+}
+.about-h1, .service-h1, .feature-h1{
+    font-size: 3.5rem !important;
+    font-weight: 900 !important;
+}
+.btn-primary{
+    border: #ed6436 !important;
+    background-color: #ed6436 !important;
+    color: white !important;
+}
+.btn-primary:hover{
+    color: #fff !important;
+    background-color: #e84a15 !important;
+    border-color: #dc4614 !important;
+}
+.tick{
+    color: #65C178 ;
+    font-weight: 500;
+    margin: 0.5rem;
+}
+.images-icon{
+    max-width: 5rem;
+}
+.read-more{
+    text-decoration: none;
+    font-weight: 600;
+    color: #e84a15;
+}
+.read-more:hover{
+    color: #dc4614;
+}
+.green-btn{
+    background-color: #46ad5b !important;
+    color: black !important;
+}
+.green-btn:hover{
+    background-color: #4ab660 !important;
+    color: #fff !important;
+}
+.details{
+    height: 5.938rem;
+}
+.teammm{
+    height: 3.125rem;
+}
+.btn-outline-primary{
+    border: 1px solid #dc4614 !important;
+    color: #dc4614 !important;
+    margin: 0 .3rem;
+}
+.btn-outline-primary:hover{
+    background-color: #dc4614 !important;
+    color: white !important;
+}
+.carddd{
+    background-color: #F2F2F4 !important;
+}
+.bloggg{
+    background-color: #f2f2f4 !important;
+    padding: 0 7% !important;
+    color: black;
+}
